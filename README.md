@@ -6,6 +6,7 @@
 * Git clone this repo
 * Open this repo folder in Spark AR
 * Connect your phone to Computer/Laptop
+* Test it on device
 
 
 ## Credits to MaruStudio for tutorials
